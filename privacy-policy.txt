@@ -1,0 +1,9 @@
+Privacy Policy - Undercover Bot
+
+Data Collection: This bot does not collect, store, or share personal data.
+Confidentiality: Conversations remain private and are not monitored.
+Security: While we prioritize privacy, users should avoid sharing sensitive information.
+Third Parties: No data is sold or shared with third parties.
+Changes: This policy may be updated at any time without prior notice.
+
+By using this bot, you accept this privacy policy.
